@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/superbowl.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: aliceblue;
+    text-shadow: 3px 3px purple;
+    margin-top: 100px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+button {
+    font-size: 18px;
+    box-shadow: 4px 2px goldenrod;
+}
+
+.btn {
+    border-radius: 15px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    gap: 250px;
+}
+
